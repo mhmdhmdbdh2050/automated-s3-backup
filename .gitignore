@@ -1,0 +1,11 @@
+# Backup files
+backups/
+
+# Log files
+*.log
+
+#Environment files
+.env
+
+# AWS credentials
+credentials
